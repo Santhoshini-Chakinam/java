@@ -10,3 +10,5 @@ res=res*i;
 System.out.println(res);
 }
 }
+
+new content added here
